@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Page Title </title>
+</head>
+<body style = "Background-Color:green;">
+<h1 style = "Background-Color:Blue;"> Brian's Html page 2
+<ul> <li> DevOps </li>
+
+</ul>
+</body>
+</html>
